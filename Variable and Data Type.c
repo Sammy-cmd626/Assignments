@@ -1,14 +1,14 @@
 /*
-Author:Finney Ndereba
+Author:Samuel Mwendwa
 Date:4/9/2024
-Reg No:ED102/G/18034/23
+Reg No:ED102/G/20888/23
 */
 //preprocessor directive scanf(), printf()
 #include<stdio.h>
 int main(){
 //declraand initialisation of variables
 char a = 'h';
-char name[]={"Finney"};//%s
+char name[]={"Samuel"};//%s
 int age =20;//%d
 float salary = 2000.50;//%f
 double budget =100000;//%1f
